@@ -51,7 +51,7 @@ Recommended settings simbrief downloader:
 
 <img width="924" height="253" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e8ef2c7d-0bd0-4468-8244-e54a0e246318" />
 
-<img width="924" height="253" alt="Screenshot_2" src="https://github.com/user-attachments/assets/3282f9e7-a814-4a63-968e-9db4545ab4b1" />
+
 
 
 Terminal output
