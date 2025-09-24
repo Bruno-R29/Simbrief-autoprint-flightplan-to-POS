@@ -14,7 +14,7 @@ By default the script stops printing when it encounters the marker [OFP] in the 
 Edit the script and change:
 
 folder_to_monitor = r"C:\Temp" to your desired folder or just create a folder called Temp in your C:\ directory
-other settings can be edited such as font size, spacing, print stop position, and sleep time
+other settings can be edited such as font size, spacing, print stop position, and sleep time, these are marked with comments when you edit the script
 
 It uses Leonardo MD80 ACARS format within simbrief downloader
 
