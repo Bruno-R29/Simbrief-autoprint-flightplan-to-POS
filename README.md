@@ -1,10 +1,10 @@
 # Simbrief-autoprint-flightplan-to-POS
+A python script that continuously monitors a folder and automatically prints new flight plan files to your default windows printer. 
+
+
 
 Using SIMBREIF DOWNLOADER as soon as you generate the flight on simbrief it automatically prints the flight plan to the default printer, specially configured for POS printers, simbrief downloader settings for unatended auto download bellow.
 
-
-
-A python script that continuously monitors a folder and automatically prints new flight plan files to your default windows printer. 
 
 
 By default the script stops printing when it encounters the marker [OFP] in the text, so it doesn´t print unnecessary information wasting paper. It can be customized to stop wherever you want by editing said marker.
